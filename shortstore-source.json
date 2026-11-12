@@ -1,0 +1,13 @@
+{
+  "name": "BoarNotes Repository",
+  "packages": [
+    {
+      "id": "boarnotes",
+      "name": "BoarNotes",
+      "version": "1.0.0",
+      "description": "OneNote-style notebooks, sections, rich-text pages, search and portable backups.",
+      "github": "https://github.com/YOUR_USERNAME/boarnotes",
+      "entry": "index.html"
+    }
+  ]
+}
