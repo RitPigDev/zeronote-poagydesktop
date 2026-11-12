@@ -1,12 +1,12 @@
 {
-  "name": "BoarNotes Repository",
+  "name": "ZeroNote Repository",
   "packages": [
     {
-      "id": "boarnotes",
-      "name": "BoarNotes",
+      "id": "zeronote",
+      "name": "ZeroNote",
       "version": "1.0.0",
       "description": "OneNote-style notebooks, sections, rich-text pages, search and portable backups.",
-      "github": "https://github.com/YOUR_USERNAME/boarnotes",
+      "github": "https://github.com/ritpigdev/zeronote-poagydesktop",
       "entry": "index.html"
     }
   ]
